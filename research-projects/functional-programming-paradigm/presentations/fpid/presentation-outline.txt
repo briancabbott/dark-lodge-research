@@ -1,0 +1,16 @@
+Functional Programming in the Imperative Domain - Presentation Outline
+
+1. Introduction 
+2. Concepts, Principles, Foundations, and Techniques - Mathematical Foundations
+3. Concepts, Principles, Foundations, and Techniques - Principles and Techniques centric or unique to Functional Programming
+**4.a Functional Languages Intro, Pureley Functional, Mostly Functional or functionally inspired, Franken-Functional 
+4. Functional Languages, The Old School (Pre-1985)
+5. Functional Languages, The New School (Post Functional Exctinction Event)
+6. Functional Style in the Imperative Domain 
+	(aka/alt title. Moving with grace through the imperative domain with functional style) 
+	(aka/alt title`. Taking advantage of recent functional constructs applied to the imperative domain by utilizing true and extended functional style)
+	
+	
+Note: 4a is a presentation I am thinking of as I remake this outline but, was not part of the original conception. 
+      It could perhaps be an intro provided in each of the three later parts or, reside as a presentation capable 
+	  of standing on its own.
